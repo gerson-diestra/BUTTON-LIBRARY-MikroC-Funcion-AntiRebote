@@ -5,6 +5,6 @@ La carpeta que lleva el nombre de "PIC12F1572_LEDs" tiene el codigo escrito en m
 
 Estoy utilizando el oscilador interno del MCU PIC12F1572 en 8MHz
 
-Link del video donde explico la función antirebote - BUTTON LIBRARy 
+Link del video donde explico la función antirebote - BUTTON LIBRARY
 
-[![Alt text](https://img.youtube.com/vi/_uI3252q3eY&abb/0.jpg)](https://www.youtube.com/watch?v=_uI3252q3eY&ab)
+[![BUTTON-LIBRARY](https://img.youtube.com/vi/uI3252q3eY&ab_channel=ClubMicrocontroladores&abb/0.jpg)](https://www.youtube.com/watch?v=uI3252q3eY&ab_channel=ClubMicrocontroladores)
