@@ -7,4 +7,4 @@ Estoy utilizando el oscilador interno del MCU PIC12F1572 en 8MHz
 
 Link del video donde explico la función antirebote - BUTTON LIBRARY
 
-[![BUTTON-LIBRARY](https://img.youtube.com/vi/uI3252q3eY&ab_channel=ClubMicrocontroladores&abb/0.jpg)](https://www.youtube.com/watch?v=uI3252q3eY&ab_channel=ClubMicrocontroladores)
+[![BUTTON-LIBRARY](https://img.youtube.com/vi/_uI3252q3eY&ab_channel=ClubMicrocontroladores&abb/0.jpg)](https://www.youtube.com/watch?v=_uI3252q3eY&ab_channel=ClubMicrocontroladores)
