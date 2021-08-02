@@ -1,0 +1,2 @@
+# BUTTON-LIBRARY-MikroC-Funcion-AntiRebote
+BUTTON LIBRARY es una función que anula a través de software, los rebotes causados al presionar un pulsador o un botón, de esta manera el microcontrolador que se utilice tendrá un lectura más estable en los pines donde esté colocado el pulsador/botón. El código está hecho en MikroC for PIC y el diseño de la simulación en Proteus 8.8 SP1. Estoy utilizando el MCU PIC12F1572.  Se puede seguir el link del video donde muestro la configuración de los fuses 
